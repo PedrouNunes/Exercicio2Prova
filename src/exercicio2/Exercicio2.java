@@ -1,8 +1,7 @@
 
 package exercicio2;
 
-import ex2provavalidacaolab.Pessoa;
-import ex2provavalidacaolab.PessoaBuilder;
+
 
 /**
  *

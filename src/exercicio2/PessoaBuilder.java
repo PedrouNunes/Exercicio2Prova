@@ -1,5 +1,5 @@
 
-package ex2provavalidacaolab;
+package exercicio2;
 
 /**
  *
